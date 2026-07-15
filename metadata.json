@@ -1,0 +1,6 @@
+{
+  "name": "GO SEHAT",
+  "description": "Train Smarter. Eat Better. Become Stronger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

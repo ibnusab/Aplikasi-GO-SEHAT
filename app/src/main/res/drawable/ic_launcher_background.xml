@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Premium charcoal background -->
+    <path
+        android:fillColor="#121212"
+        android:pathData="M0,0h108v108h-108z" />
+    <!-- Linear diagonal dynamic lines representing progress -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M0,108L108,0"
+        android:strokeWidth="1.5"
+        android:strokeColor="#22FF6D00" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M0,80L80,0"
+        android:strokeWidth="1"
+        android:strokeColor="#11FF6D00" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M28,108L108,28"
+        android:strokeWidth="1"
+        android:strokeColor="#11FF6D00" />
+</vector>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central Dumbbell Shaft -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,35h6v38h-6z" />
+
+    <!-- Top Plate 1 (Large Inner Plate) -->
+    <path
+        android:fillColor="#FF6D00"
+        android:pathData="M32,32h44v6h-44z" />
+
+    <!-- Top Plate 2 (Medium Outer Plate) -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M38,24h32v6h-32z" />
+
+    <!-- Top Handle Stop Collar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47,38h14v2h-14z" />
+
+    <!-- Bottom Plate 1 (Large Inner Plate) -->
+    <path
+        android:fillColor="#FF6D00"
+        android:pathData="M32,70h44v6h-44z" />
+
+    <!-- Bottom Plate 2 (Medium Outer Plate) -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M38,78h32v6h-32z" />
+
+    <!-- Bottom Handle Stop Collar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47,68h14v2h-14z" />
+
+</vector>
